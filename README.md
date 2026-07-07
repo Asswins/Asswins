@@ -225,6 +225,7 @@ Smart environment telemetry node combining synchronized smoke and temperature se
 <div align="center">
 
 [
+[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -241,6 +242,7 @@ Smart environment telemetry node combining synchronized smoke and temperature se
 ](https://your-portfolio-url-placeholder.com)
 
 **📍 Tamil Nadu, India**
+
 
 </div>
 
