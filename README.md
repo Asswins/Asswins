@@ -13,7 +13,7 @@ AWS & DevOps portfolio showcasing cloud projects, automation, infrastructure as 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/ash_ashwin077)
+](https://www.linkedin.com/in/asswin-jabas-s-061605213)
 [
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
