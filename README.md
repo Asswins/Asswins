@@ -23,7 +23,7 @@ AWS & DevOps portfolio showcasing cloud projects, automation, infrastructure as 
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-](https://your-portfolio-url-placeholder.com)
+](https://asswins.github.io)
 [
 
 ![GitHub followers](https://img.shields.io/github/followers/Asswins?style=for-the-badge&color=blue)
